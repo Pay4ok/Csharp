@@ -1,0 +1,14 @@
+C:\Users\Pay4ok\Desktop\LW 6\obj\Debug\netcoreapp3.1\LW 6.csproj.AssemblyReference.cache
+C:\Users\Pay4ok\Desktop\LW 6\obj\Debug\netcoreapp3.1\LW 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pay4ok\Desktop\LW 6\obj\Debug\netcoreapp3.1\LW 6.AssemblyInfoInputs.cache
+C:\Users\Pay4ok\Desktop\LW 6\obj\Debug\netcoreapp3.1\LW 6.AssemblyInfo.cs
+C:\Users\Pay4ok\Desktop\LW 6\obj\Debug\netcoreapp3.1\LW 6.csproj.CoreCompileInputs.cache
+C:\Users\Pay4ok\Desktop\LW 6\bin\Debug\netcoreapp3.1\LW 6.exe
+C:\Users\Pay4ok\Desktop\LW 6\bin\Debug\netcoreapp3.1\LW 6.deps.json
+C:\Users\Pay4ok\Desktop\LW 6\bin\Debug\netcoreapp3.1\LW 6.runtimeconfig.json
+C:\Users\Pay4ok\Desktop\LW 6\bin\Debug\netcoreapp3.1\LW 6.runtimeconfig.dev.json
+C:\Users\Pay4ok\Desktop\LW 6\bin\Debug\netcoreapp3.1\LW 6.dll
+C:\Users\Pay4ok\Desktop\LW 6\bin\Debug\netcoreapp3.1\LW 6.pdb
+C:\Users\Pay4ok\Desktop\LW 6\obj\Debug\netcoreapp3.1\LW 6.dll
+C:\Users\Pay4ok\Desktop\LW 6\obj\Debug\netcoreapp3.1\LW 6.pdb
+C:\Users\Pay4ok\Desktop\LW 6\obj\Debug\netcoreapp3.1\LW 6.genruntimeconfig.cache

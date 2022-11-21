@@ -1,0 +1,14 @@
+C:\Users\Pay4ok\Desktop\LW 7\bin\Debug\netcoreapp3.1\LW 7.exe
+C:\Users\Pay4ok\Desktop\LW 7\bin\Debug\netcoreapp3.1\LW 7.deps.json
+C:\Users\Pay4ok\Desktop\LW 7\bin\Debug\netcoreapp3.1\LW 7.runtimeconfig.json
+C:\Users\Pay4ok\Desktop\LW 7\bin\Debug\netcoreapp3.1\LW 7.runtimeconfig.dev.json
+C:\Users\Pay4ok\Desktop\LW 7\bin\Debug\netcoreapp3.1\LW 7.dll
+C:\Users\Pay4ok\Desktop\LW 7\bin\Debug\netcoreapp3.1\LW 7.pdb
+C:\Users\Pay4ok\Desktop\LW 7\obj\Debug\netcoreapp3.1\LW 7.csproj.AssemblyReference.cache
+C:\Users\Pay4ok\Desktop\LW 7\obj\Debug\netcoreapp3.1\LW 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pay4ok\Desktop\LW 7\obj\Debug\netcoreapp3.1\LW 7.AssemblyInfoInputs.cache
+C:\Users\Pay4ok\Desktop\LW 7\obj\Debug\netcoreapp3.1\LW 7.AssemblyInfo.cs
+C:\Users\Pay4ok\Desktop\LW 7\obj\Debug\netcoreapp3.1\LW 7.csproj.CoreCompileInputs.cache
+C:\Users\Pay4ok\Desktop\LW 7\obj\Debug\netcoreapp3.1\LW 7.dll
+C:\Users\Pay4ok\Desktop\LW 7\obj\Debug\netcoreapp3.1\LW 7.pdb
+C:\Users\Pay4ok\Desktop\LW 7\obj\Debug\netcoreapp3.1\LW 7.genruntimeconfig.cache
